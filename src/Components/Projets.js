@@ -95,11 +95,11 @@ const Projets = () => {
       ],
       linksDescriptions: ["Voir sur Github"],
       description:
-        "Gestion d'un Cabinet Medical",
+        "Application Desktop de Gestion d'un Cabinet Medical",
       details: [
         "Conception et scénarisation",
         "Création des différentes interfaces existent dans l'application",
-        "Réalisation du design du jeu",
+        "Réalisation des différentes classes ",
         "Stack :JAVA - Java Swing - MySql",
       ],
     },
