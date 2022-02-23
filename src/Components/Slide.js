@@ -59,7 +59,7 @@ const Slide = () => {
         </div>
 
 
-        <a href="#about-section" className="mouse-wrap smoothscroll">
+        <a href="#experience" className="mouse-wrap smoothscroll">
           <span className="mouse">
             <span className="scroll"></span>
           </span>
