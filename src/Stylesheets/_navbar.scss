@@ -1,0 +1,26 @@
+#Navbar {
+  .navbar-bg {
+    background: linear-gradient(86deg, rgba(60,60,207,1) 4%, rgba(56,56,191,1) 9%, rgba(55,55,189,1) 12%, rgba(17,17,92,1) 62%, rgba(8,8,52,1) 100%);;
+    min-height: 8vh;
+  }
+
+  li {
+    margin: 0;
+    padding: 0 ;
+    color: #DAA520;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0 ;
+    color: #DAA520;
+  }
+
+  .nav-link {
+    @media (max-width: 600px) {
+      text-align: center !important;
+      margin: 1.5vh 0;
+    }
+  }
+}
+
