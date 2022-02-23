@@ -100,7 +100,7 @@ const Projets = () => {
         "Conception et scénarisation",
         "Création des différentes interfaces existent dans l'application",
         "Réalisation du design du jeu",
-        "Stack :JAVA - MySql",
+        "Stack :JAVA - Java Swing - MySql",
       ],
     },
     {
