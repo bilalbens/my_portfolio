@@ -100,21 +100,21 @@ const Projets = () => {
         "Conception et scénarisation",
         "Création des différentes interfaces existent dans l'application",
         "Réalisation du design du jeu",
-        "Stack : Android SDK - JAVA - SQLite",
+        "Stack :JAVA - MySql",
       ],
     },
     {
       name: "Gestion des clients et commerciaux",
       date: "Nov 2021",
       img: `${gestionClinet}`,
-      links: ["https://www.linkedin.com/posts/bilal-benslimane_amsa6-ensaabrfes-v2x-activity-6872686555807543296-_m2N"],
+      links: ["https://github.com/bilalbens/Gesition_Cabinet_Java"],
       linksDescriptions: ["Voir le site"],
       description:
         "Application mobile de gestion des clients et commerciaux en utilisant Android",
       details: [
-        "Détection d’un accident et diffuser sa positon vers les différents conducteurs et les ambulanciers a travers le cloud",
-        "Création d'un prototype",
-        "Stack : ESP8266 - Arduino - Arduino IOT Cloud",
+        "Application mobile de gestion des clients et commerciaux en utilisant Android,",
+        "Création des différentes interfaces existent dans l'application",
+        "Stack : Android SDK - JAVA - SQLite",
       ],
     },
     {
